@@ -1,0 +1,11 @@
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\bin\Debug\netcoreapp2.0\CICDDemo.deps.json
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\bin\Debug\netcoreapp2.0\CICDDemo.runtimeconfig.json
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\bin\Debug\netcoreapp2.0\CICDDemo.runtimeconfig.dev.json
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\bin\Debug\netcoreapp2.0\CICDDemo.dll
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\bin\Debug\netcoreapp2.0\CICDDemo.pdb
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.csprojResolveAssemblyReference.cache
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.csproj.CoreCompileInputs.cache
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.AssemblyInfoInputs.cache
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.AssemblyInfo.cs
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.dll
+C:\Users\MRP\Source\Repos\CICDDemo\CICDDemo\obj\Debug\netcoreapp2.0\CICDDemo.pdb
