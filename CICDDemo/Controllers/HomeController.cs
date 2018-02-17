@@ -17,7 +17,7 @@ namespace CICDDemo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page huuuuuuuuuuu.";
+            ViewData["Message"] = "Your application description page malitha.";
 
             return View();
         }
